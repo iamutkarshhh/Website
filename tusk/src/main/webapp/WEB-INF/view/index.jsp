@@ -91,7 +91,7 @@ C++ is a superset of C, and that virtually any legal C program is a legal C++ pr
     <i class="fa fa-twitter w3-hover-opacity"></i>
     <i class="fa fa-linkedin w3-hover-opacity"></i>
  </div>
- <p>Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a></p>
+ <p>Powered by <a href="https://www.google.com" target="_blank">Utkarsh</a></p>
 </footer>
 
 <script>
